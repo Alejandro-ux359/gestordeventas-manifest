@@ -1,7 +1,21 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "descripcion": "Soporte de idiomas español e inglés, corrección del cálculo de pagos mixtos en cierres de caja y nuevo banner de actualizaciones.",
   "apkUrl": "https://apklis.cu/application/com.alejandroux359.gestordeventas",
   "obligatoria": true,
-  "fecha": "2026-10-08"
+  "fecha": "2026-10-10",
+  "fuentes": [
+    {
+      "id": "directa",
+      "nombre": "Descarga directa",
+      "tipo": "directa",
+      "url": "https://raw.githubusercontent.com/Alejandro-ux359/app/main/gestordeventas/2.1.1/gestordeventas-2.1.1.apk"
+    },
+    {
+      "id": "apklis",
+      "nombre": "Apklis",
+      "tipo": "web",
+      "url": "https://apklis.cu/application/com.alejandroux359.gestordeventas"
+    }
+  ]
 }
