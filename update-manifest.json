@@ -1,9 +1,9 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "descripcion": "Soporte de idiomas español e inglés, corrección del cálculo de pagos mixtos en cierres de caja y nuevo banner de actualizaciones.",
   "apkUrl": "https://apklis.cu/application/com.alejandroux359.gestordeventas",
   "obligatoria": true,
-  "fecha": "2026-10-10",
+  "fecha": "2026-10-11",
   "fuentes": [
     {
       "id": "directa",
