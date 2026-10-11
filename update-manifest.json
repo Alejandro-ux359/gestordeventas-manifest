@@ -12,10 +12,31 @@
       "url": "https://raw.githubusercontent.com/Alejandro-ux359/app/main/gestordeventas/2.1.5/gestordeventas-2.1.5.apk"
     },
     {
+      "id": "telegram",
+      "nombre": "Canal de Telegram",
+      "tipo": "app",
+      "icono": "telegram",
+      "url": "https://t.me/"
+    },
+    {
       "id": "apklis",
       "nombre": "Apklis",
       "tipo": "web",
       "url": "https://apklis.cu/application/com.alejandroux359.gestordeventas"
+    },
+    {
+      "id": "mega",
+      "nombre": "MEGA",
+      "tipo": "web",
+      "icono": "mega",
+      "url": "https://mega.nz/"
+    },
+    {
+      "id": "fireload",
+      "nombre": "Fireload",
+      "tipo": "web",
+      "icono": "fireload",
+      "url": "https://fireload.com/"
     }
   ]
 }
