@@ -1,42 +1,15 @@
 {
-  "version": "2.1.5",
-  "descripcion": "Soporte de idiomas español e inglés, corrección del cálculo de pagos mixtos en cierres de caja y nuevo banner de actualizaciones.",
+  "version": "2.1.6",
+  "descripcion": "Módulo de pago Pro/Free con QvaPay: compra, renovación, gracia y restauración de plan.",
   "apkUrl": "https://apklis.cu/application/com.alejandroux359.gestordeventas",
   "obligatoria": false,
-  "fecha": "2026-10-12",
+  "fecha": "2026-10-13",
   "fuentes": [
-    {
-      "id": "directa",
-      "nombre": "Descarga directa",
-      "tipo": "directa",
-      "url": "https://raw.githubusercontent.com/Alejandro-ux359/app/main/gestordeventas/2.1.6/gestordeventas-2.1.6.apk"
-    },
-    {
-      "id": "telegram",
-      "nombre": "Canal de Telegram",
-      "tipo": "app",
-      "icono": "telegram",
-      "url": "https://t.me/"
-    },
     {
       "id": "apklis",
       "nombre": "Apklis",
       "tipo": "web",
       "url": "https://apklis.cu/application/com.alejandroux359.gestordeventas"
-    },
-    {
-      "id": "mega",
-      "nombre": "MEGA",
-      "tipo": "web",
-      "icono": "mega",
-      "url": "https://mega.nz/"
-    },
-    {
-      "id": "fireload",
-      "nombre": "Fireload",
-      "tipo": "web",
-      "icono": "fireload",
-      "url": "https://fireload.com/"
     }
   ]
 }
